@@ -1,0 +1,4 @@
+jieba
+pandas
+matplotlib
+wordcloud
